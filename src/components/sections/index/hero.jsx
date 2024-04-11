@@ -55,7 +55,7 @@ export default function Hero() {
                 <section style={{ position: 'relative' }}>
                     <button
                         className={`button ${button.primary}`}
-                        onClick={() => (window.location = 'mailto:contact@muhammadfiaz.com')}
+                        onClick={() => (window.location = 'mailto:contact@fauzibagaswara99.com')}
                         onMouseEnter={() => setIsHiremeTooltipVisible(true)}
                         onMouseLeave={() => setIsHiremeTooltipVisible(false)}
                     >
