@@ -9,11 +9,7 @@ return (
 <Html lang="en">
 
 <Head>
-{/*
-Author: Muhammad Fiaz  pk1399
-GitHub: Visit the GitHub repository at https://github.com/muhammad-fiaz/portfolio/ for more details.
-license: MIT License
-*/}
+
 <meta charSet="utf-8" />
 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 {/* eslint-disable-next-line @next/next/no-title-in-document-head */}
@@ -93,37 +89,6 @@ license: MIT License
 
 {/*These are the Keywords that will Boost your SEO in Ranking, so Make Sure to include and Update it up to your preference or don't mind this! 😴*/}
 <meta name="keywords" content="
-Muhammad Fiaz, Full Stack Engineer, Full Stack Developer, DevOps Engineer, Software Engineer,
-Programmer, Software Developer, Portfolio Website, Web Developer, Coding, Full Stack Development,
-Technology Enthusiast, Software Development, Computer Science, Programming Projects,
-Frontend Developer, Backend Developer, Software Development Portfolio, Student,
-Full Stack Web Developer, Muhammad Fiaz Portfolio, Coding Projects, Tech Portfolio,
-Web Development, DevOps Professional, Muhammad Fiaz Projects, Software Engineer Portfolio,
-IT Professional, Technology Projects, Software Development Engineer, Computer Programmer,
-Code Portfolio, Technology Student, Software Architect, Cloud Computing,
-DevOps Specialist, Software Engineering Projects, Coding Portfolio,
-Full Stack Engineer Portfolio, Muhammad Fiaz Web Developer,
-Software Development Student, Coding Enthusiast, DevOps Portfolio, Programming Portfolio,
-Muhammad Fiaz DevOps, IT Portfolio, Web Developer Portfolio, Muhammad Fiaz Developer,
-Full Stack Engineer Muhammad Fiaz, Muhammad Fiaz Coding, Muhammad Fiaz IT,
-Muhammad Fiaz Full Stack Developer, Muhammad Fiaz Software Engineer, Muhammad Fiaz DevOps Engineer,
-Muhammad Fiaz Programming, Muhammad Fiaz Software Development, Muhammad Fiaz Coding Projects,
-Muhammad Fiaz Tech Portfolio, Muhammad Fiaz IT Portfolio, Muhammad Fiaz Software Engineer Portfolio,
-Muhammad Fiaz Web Developer Portfolio, Muhammad Fiaz DevOps Portfolio, Muhammad Fiaz Full Stack Engineer,
-Muhammad Fiaz Full Stack Developer Portfolio, Muhammad Fiaz Coding Portfolio, Muhammad Fiaz Programming Portfolio,
-Muhammad Fiaz Software Development Portfolio, Muhammad Fiaz Technology Projects,
-Muhammad Fiaz Computer Science, Muhammad Fiaz Cloud Computing, Muhammad Fiaz IT Professional,
-Muhammad Fiaz Technology Enthusiast, Muhammad Fiaz Computer Programmer, Muhammad Fiaz Code Portfolio,
-Muhammad Fiaz Technology Student, Muhammad Fiaz Software Architect,fiaz,fiaz portfolio,fiaz devops,fiaz devops engineer,
-fiaz devops portfolio,fiaz devops projects,fiaz devops specialist,fiaz devops professional,fiaz devops engineer portfolio,
-fiaz devops engineer projects,fiaz devops engineer specialist,fiaz devops engineer professional,fiaz devops engineer coding,
-fiaz devops engineer coding projects,fiaz devops engineer coding portfolio,fiaz devops engineer coding specialist,
-Open Source Contributor,open source,open source projects,open source portfolio,open source contributions,
-open source contributions portfolio,open source contributions projects,open source contributions coding,
-open source contributions coding projects,open source contributions coding portfolio,open source contributions coding specialist,
-open source contributions coding professional,open source contributions coding engineer,open source contributions coding developer,
-open source contributions coding student,open source contributions coding enthusiast,open source contributions coding architect,
-open source contributions coding projects portfolio,open source contributions coding projects specialist,
 
 " />
 
@@ -132,16 +97,7 @@ open source contributions coding projects portfolio,open source contributions co
 type="application/ld+json"
 dangerouslySetInnerHTML={{
 __html: `{
-"@context": "https://schema.org",
-"@type": "Person",
-"name": "Muhammad Fiaz",
-"url": "https://muhammadfiaz.com",
-"sameAs": [
-"https://github.com/muhammad-fiaz",
-"https://www.linkedin.com/in/muhammad-fiaz-",
-"https://medium.com/@muhammad-fiaz",
-"https://twitter.com/muhammadfiaz_",
-"https://dev.to/muhammadfiaz"
+
 ]
 }`
 }}
@@ -151,6 +107,8 @@ __html: `{
 {/*Edit this to your according FAQ */}
 <script type="application/ld+json" dangerouslySetInnerHTML={{
 __html: `
+
+
 {
 "@context": "https://schema.org",
 "@type": "FAQPage",
@@ -253,30 +211,6 @@ __html: `
 `
 }} />
 {/*theme*/}
-<Script id="theme.util.jsx" strategy="beforeInteractive" >
-{`
-let themeLocalStorage = localStorage.getItem('theme')
-let themeSystem = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
-document.querySelector(':root').dataset.theme = themeLocalStorage ?? themeSystem
-`}
-</Script>
-
-{/* Google Analytics */}
-<Script strategy="afterInteractive" src="https://www.googletagmanager.com/gtag/js?id=G-SDJ0K1Y70X"/>
-<Script
-id='google-analytics'
-strategy="afterInteractive"
-dangerouslySetInnerHTML={{
-__html: `
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-SDJ0K1Y70X', {
-page_path: window.location.pathname,
-});
-`,
-}}
-/>
 </Head>
 
 <body>

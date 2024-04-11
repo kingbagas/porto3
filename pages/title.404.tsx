@@ -7,9 +7,7 @@ return (
 <Head>
 
 {/*
-Author: Muhammad Fiaz
-GitHub: Visit the GitHub repository at https://github.com/muhammad-fiaz/portfolio/ for more details.
-license: MIT License
+
 */}
 <meta charSet="utf-8" />
 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />

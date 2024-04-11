@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { Player } from '@lottiefiles/react-lottie-player';
 import HCaptcha from '@hcaptcha/react-hcaptcha';
 import ConfettiComponent from './../intro/confetti';
-import { checkForUpdates, VersionDetails } from './checkforupdates';
 import settings from '../../../src/content/_settings.json';
 
 const DevelopmentNotice = () => {
@@ -22,11 +21,6 @@ const DevelopmentNotice = () => {
             const jsonAutoupdatecheck = settings?.autoupdatecheck || false;
             setAutoupdatecheck(jsonAutoupdatecheck);
 
-            if (jsonAutoupdatecheck) {
-                // Fetch version details only if autoupdatecheck is true
-                const details = await checkForUpdates();
-                setVersionDetails(details);
-            }
 
             const hasSeenNotice = localStorage.getItem('developmentNotice');
             if (!hasSeenNotice) {
@@ -138,7 +132,7 @@ const DevelopmentNotice = () => {
                     {WelMsg && (
                         <div>
                             <h2 style={{ fontSize: '32px', marginBottom: '20px'}}>
-                                <span dangerouslySetInnerHTML={{ __html: WelMsg.replace('Github', '<a href="https://github.com/muhammad-fiaz" target="_blank" rel="noopener noreferrer" style="color: #3498db;">Github</a>') }} />
+                                <span dangerouslySetInnerHTML={{ __html: WelMsg.replace('Github', '<a href="https://github.com/fauzibagaswara" target="_blank" rel="noopener noreferrer" style="color: #3498db;">Github</a>') }} />
                             </h2>
                             {timerRemaining !== null && (
                                 <p style={{ fontSize: '16px', marginBottom: '10px', color: 'linear-gradient(to right, #3498db, #2ecc71)' }}>
