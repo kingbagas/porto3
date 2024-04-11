@@ -10,7 +10,7 @@ return (
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>GTA</title>
 
-<meta name="application-name" content="Muhammad " />
+<meta name="application-name" content="Fauzi Bagaswara " />
 <meta name="description" content="FAUZI Bagaswara - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey." />
 <meta name="title" content="FAUZI BAGASWARA "/>
 

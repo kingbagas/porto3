@@ -52,7 +52,7 @@ export default function LoadingAnim() {
             <p
                 className='loading-text-resp'
             >
-                Preparing your experience...
+                Tungguu boss
             </p>
         </div>
     );

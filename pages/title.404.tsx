@@ -17,7 +17,7 @@ license: MIT License
 <title>404 - Page Not Found | bagas </title>
 <meta name="description" content="The requested page was not found or the link is broken. " />
 {/*These are the Keywords that will Boost your SEO in Ranking, so Make Sure to include and Update it up to your preference or don't mind this! 😴*/}
-<meta name="keywords" content="404, Page Not Found, Muhammad Fiaz, Portfolio,broken link ,missing page,link not found" />
+<meta name="keywords" content="404, Page Not Found, Fauzi Bagaswara, Portfolio,broken link ,missing page,link not found" />
 
 
 

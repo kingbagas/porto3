@@ -117,12 +117,9 @@ const DevelopmentNotice = () => {
                     {hideContent ? null : (
                         <>
                             <p style={{ fontSize: '18px', marginBottom: '20px' }}>
-                                Thank you for visiting my portfolio!👻
+                                Selamat Datang di portfolio Fauzi Bagaswara
                             </p>
-                            <p style={{ fontSize: '14px', marginBottom: '30px' }}>
-                                If you encounter any issues or bugs, please report them{' '}
-                                <a href="https://github.com/muhammad-fiaz/portfolio/issues/new">@muhammad-fiaz</a>
-                            </p>
+                          
                             {!isVerified ? (
                                 <>
                                     <div style={{ marginBottom: '10px', marginLeft: '20px' }}>
@@ -132,7 +129,7 @@ const DevelopmentNotice = () => {
                                         />
                                     </div>
                                     <p style={{ fontSize: '12px', color: 'red', marginBottom: '10px' }}>
-                                        Please complete the verification.
+                                      Verifikasi bosss
                                     </p>
                                 </>
                             ) : null}
@@ -184,34 +181,7 @@ const DevelopmentNotice = () => {
                             padding: '10px',
                         }}
                     >
-                        <p>
-                            Current Version:{' '}
-                            {versionDetails ? (
-                                <a
-                                    href={`https://github.com/muhammad-fiaz/portfolio/releases/tag/v${versionDetails.currentVersion}`}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    {versionDetails.currentVersion}
-                                </a>
-                            ) : 'Loading...'}{' '}
-                            -{' '}
-                            {versionDetails && versionDetails.isLatestVersion ? (
-                                'Everything is up to date!👻'
-                            ) : (
-                                <>
-                                    {versionDetails ? (
-                                        <a
-                                            href={versionDetails.releasesUrl}
-                                            target="_blank"
-                                            rel="noopener noreferrer"
-                                        >
-                                            New Version {versionDetails.latestVersion} available🎉
-                                        </a>
-                                    ) : 'Checking for updates...'}
-                                </>
-                            )}
-                        </p>
+                    
                     </div>
                 )}
             </div>

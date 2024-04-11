@@ -18,12 +18,12 @@ license: MIT License
 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 {/* eslint-disable-next-line @next/next/no-title-in-document-head */}
 <title>Fauzi Bagaswara</title>
-<meta name="description" content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey." />
+<meta name="description" content="Fauzi Bagaswara adalah fullstack web developer dari Jember " />
 
 {/*These are need for PWA*/}
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-<meta name="apple-mobile-web-app-title" content="Muhammad Fiaz" />
+<meta name="apple-mobile-web-app-title" content="Fauzi Bagaswara" />
 <meta name="format-detection" content="telephone=no" />
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
@@ -33,17 +33,16 @@ license: MIT License
 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="language" content="English"/>
 <meta name="revisit-after" content="1 days"/>
-<link rel="canonical" href="https://muhammadfiaz.com" />
+<link rel="canonical" href="" />
 <meta name="license" content="MIT License" />
 <meta httpEquiv="content-language" content="en-us" />
 
-<link rel="preconnect" href="https://muhammadfiaz.com" />
+<link rel="preconnect" href="" />
 
-<link rel="dns-prefetch" href="https://muhammadfiaz.com" />
+<link rel="dns-prefetch" href="" />
 
-<meta name="author" content="Muhammad Fiaz" />
-
-<link rel="alternate" hrefLang="en" href="https://muhammadfiaz.com" />
+<meta name="author" content="fauzi bagaswara" />
+<link rel="alternate" hrefLang="en" href="http" />
 
 <meta name="robots" content="index, follow" />
 <meta name="googlebot" content="index, follow" />
@@ -66,28 +65,22 @@ license: MIT License
 
 
 
-<meta property="og:title" content="Muhammad Fiaz" key="title" />
-<meta property="og:description" content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
-<meta property="og:image" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
-<meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
+<meta property="og:title" content="fauzi bagaswara" key="title" />
+<meta property="og:description" content="FauziBagaswara" />
+<meta property="og:image" content="img/gambar.jpg" />
+<meta property="og:image:secure_url" content="img/gambar.jpg" />
 <meta property="og:image:type" content="image/jpeg" />
-<meta property="og:image:alt" content="Muhammad Fiaz" />
+<meta property="og:image:alt" content="Fauzi Bagaswara" />
 <meta property="og:image:width" content="300" />
 <meta property="og:image:height" content="300" />
-<meta property="og:url" content="https://muhammadfiaz.com" />
+<meta property="og:url" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:profile" content="https://github.com/muhammad-fiaz" />
-<meta property="og:site_name" content="Muhammad Fiaz" />
+<meta property="og:profile" content="Fauzi Bagaswara" />
+<meta property="og:site_name" content="Fauzi Bagaswara" />
 <meta property="og:locale" content="en_US" />
 
 
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="https://twitter.com/muhammadfiaz_" />
-<meta name="twitter:title" content="Muhammad Fiaz" />
-<meta name="twitter:description" content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey." />
-<meta name="twitter:image" content="https://avatars.githubusercontent.com/u/75434191?v=4" />
-<meta name="twitter:creator" content="https://twitter.com/muhammadfiaz_" />
-<meta name="twitter:domain" content="https://muhammadfiaz.com" />
+
 
 
 <link rel='apple-touch-startup-image' href='/img/logo_rounded.png' sizes='2048x2732' />

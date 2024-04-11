@@ -7,13 +7,13 @@
 		"wrapper": "h2",
 		"startDelay": 1000,
 		"deleteDelay": 3000,
-		"restartDelay": 12000
+		"restartDelay": 10000
 	},
 	"header": {
 		"name": "Fauzi Bagaswara.",
 		"usp": "Passionate Full Stack Developer."
 	},
-	"paragraph": "From 18Years Old J Fullstack developer East Java . Jember    2years Contributes with Codes",
+	"paragraph": "From 18YearsOld J Fullstack developer East Java . Jember    2years Contributes with Codes",
 	"buttons": {
 		"primary": {
 			"title": "Hire Me",

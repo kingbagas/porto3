@@ -5,7 +5,6 @@ const ConfettiComponent = () => {
     const [confettiActive, setConfettiActive] = useState(false);
 
     useEffect(() => {
-        // Set confettiActive to true after a delay to trigger the confetti animation
         const delay = setTimeout(() => {
             setConfettiActive(true);
         }, 1000);

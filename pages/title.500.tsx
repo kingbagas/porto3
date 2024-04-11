@@ -17,7 +17,7 @@ license: MIT License
 <title>500: internal server error | Muhammad Fiaz</title>
 <meta name="description" content="The requested page was occur internal server error " />
 {/*These are the Keywords that will Boost your SEO in Ranking, so Make Sure to include and Update it up to your preference or don't mind this! 😴*/}
-<meta name="keywords" content="500, internal server error, Muhammad Fiaz, Portfolio,broken link ,missing page,link not found" />
+<meta name="keywords" content="500, internal server error, Muhammad Fauzi , Portfolio,broken link ,missing page,link not found" />
 
 
 
