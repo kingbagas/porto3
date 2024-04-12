@@ -41,13 +41,7 @@ export default function About() {
                 </section>
                 <section className={about.content}>
                     <div className={about.copy}>
-                        <CopyBlock
-                            title="Security and Privacy"
-                            containerClass={about.container}
-                            iconClass={about.icon}
-                            icon="fal" // Tambahkan properti icon di sini
-                            copy={`Keamanan dan privasi adalah hal terpenting dalam pendekatan saya terhadap pembangunan. Saya memprioritaskan perlindungan data sensitif dan menerapkan langkah-langkah keamanan yang kuat. Dengan mengikuti praktik terbaik industri dan terus mengikuti perkembangan terkini mengenai ancaman yang muncul, saya memastikan bahwa informasi pengguna tetap terlindungi. Kepercayaan dan kerahasiaan adalah landasan pekerjaan saya.`}
-                        />
+                     
                         <CopyBlock
                             title="Constant Learning and Improvements"
                             containerClass={about.container}
@@ -72,6 +66,5 @@ export default function About() {
 }
 
 const methods = [
-    { key: 'machinelearning', name: 'Machine Learning', type: 'fad', icon: 'devicon' },
-    { key: 'artificialintelligence', name: 'Artificial Intelligence', type: 'fad', icon: 'devicon' },
+    { key: 'web', name: 'Web Developer', type: 'fad', icon: 'devicon' },
 ];

@@ -8,10 +8,10 @@ return (
 <meta charSet="utf-8" />
 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>GTA</title>
+<title>Home Bagas</title>
 
 <meta name="application-name" content="Fauzi Bagaswara " />
-<meta name="description" content="FAUZI Bagaswara - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey." />
+<meta name="description" content="FAUZI Bagaswara - J Fullstack WebDeveloper" />
 <meta name="title" content="FAUZI BAGASWARA "/>
 
 

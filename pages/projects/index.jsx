@@ -1,5 +1,4 @@
 
-const GitRecentProjects = dynamic(import ('../../src/components/sections/projects/recent'));
 const FeaturedProjects = dynamic(import ( '../../src/components/sections/projects/featured'));
 import dynamic from "next/dynamic";
 
@@ -16,7 +15,6 @@ return (
 <TitleProjects/>
 <Color colors={colors} />
 <FeaturedProjects />
-<GitRecentProjects user={user} repos={repos} />
 </>
 )
 }

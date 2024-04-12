@@ -1,19 +1,19 @@
 {
 	"intro": {
-		"start": "const myName = () =>",
-		"end": "Hey there!, my name is",
+		"start": " perkenalkan = () =>",
+		"end": "Hallo Semua!,Nama Saya",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
 		"startDelay": 1000,
 		"deleteDelay": 3000,
-		"restartDelay": 10000
+		"restartDelay": 8000
 	},
 	"header": {
 		"name": "Fauzi Bagaswara.",
 		"usp": "Passionate Full Stack Developer."
 	},
-	"paragraph": "From 18YearsOld J Fullstack developer East Java . Jember    2years Contributes with Codes",
+	"paragraph": "From 18YearsOld J Fullstack developer East Java . Jember   2years Contributes with Codes",
 	"buttons": {
 		"primary": {
 			"title": "Hire Me",

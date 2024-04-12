@@ -25,7 +25,7 @@ export default function Education() {
                                 <h5>Malang   · East Java</h5>
                             </span>
                             <h4>Saat ini</h4>
-                            <h5>Siswa Magang DI PT UNIVERSAL BIG DATA(UBIG)MALANG East Java Sebagai FULLSTACK WEB DEVELOPER </h5>
+                            <h5>Siswa Magang DI PT UNIVERSAL BIG DATA MALANG  =()= FULLSTACK WEB DEVELOPER </h5>
                         </div>
                         <div className={career.companyAlt}></div>
                     </article>

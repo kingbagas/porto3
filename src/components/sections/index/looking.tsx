@@ -13,7 +13,7 @@ export default function Looking() {
                 <h2 className={looking.jsonSub}><span className={looking.highlight}>Full Stack Developer</span>,</h2>
                 <h2 className={looking.jsonSub}><span className={looking.highlight2}>Malang East Java</span></h2>
                 <h2 className={looking.json}>&#125;</h2>
-                <h4>I am very interested in a product-based position where I can help create a business Service or website</h4>
+                <h4>Saya Bersedia membantu proyek terhadap klien menggunakan jasa kami</h4>
             </Container>
         </Section>
     );

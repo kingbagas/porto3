@@ -21,14 +21,14 @@ export default function Technical() {
         <Section classProp={`${technical.section} borderBottom`}>
             <Container spacing={['verticalXXXLrg']}>
                 <SectionTitle
-                    title="Technical"
-                    preTitle="Hard Skills"
-                    subTitle="As a creative technologist, I craft intuitive digital experiences using a diverse set of tools and languages."
+                    title="TEKNIK"
+                    preTitle="Skill Berat"
+                    subTitle="Menggunakan beberapa bahasa pemrogaman yang sudah dipelajari "
                 />
                 <section className={`${technical.content} ${technical.container}`}>
                     <div className={technical.copy}>
                         <CopyBlock
-                            title="Logical Thinking"
+                            title="logika pemrogaman"
                             icon="fas" 
                             copy="Dengan dasar yang kuat dalam desain dan pengembangan, saya menggunakan pemikiran logis untuk mendekati setiap proyek. Saya membawa perspektif unik, selalu mencari solusi inovatif dan tetap terkini dengan tren industri terbaru."
                             iconClass={technical.icon}
@@ -36,7 +36,7 @@ export default function Technical() {
                         />
 
                         <BadgesBlock
-                            title="Software I love now "
+                            title="alat yang suka saya coding "
                             copy="Saya adalah programmer autodidak dengan minat besar dalam pengembangan proyek. Saya memiliki pemahaman yang kuat dan intuitif tentang desain antarmuka perangkat lunak terbaik di dunia. Saya senang bekerja dengan alat seperti VS Code dan perangkat lunak "
                             list={software}
                             block="software"
@@ -46,7 +46,7 @@ export default function Technical() {
                             headerIcon={technical.icon} invertedColor={undefined} />
 
                         <BadgesBlock
-                            title="Technologies I loved build"
+                            title="bahasa pemrograman"
                             copy="Saya adalah pemecah masalah yang bersemangat, menikmati menciptakan solusi inovatif melalui pemrograman. Mulai dari front-end hingga back-end, saya senang menantang batas kemungkinan"
                             list={tech}
                             block="tech"
@@ -94,6 +94,5 @@ const tech = [
     { key: 'tailwind', name: 'TailwindCSS', type: 'devicon' },
     { key: 'bootstrap', name: 'Bootstrap', type: 'devicon' },
     { key: 'npm', name: 'npm', type: 'devicon' },
-    { key: 'android', name: 'Android', type: 'devicon' },
     { key: 'firebase', name: 'Firebase', type: 'devicon' },
 ];
